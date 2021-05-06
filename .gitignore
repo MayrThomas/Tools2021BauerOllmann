@@ -1,7 +1,7 @@
 # ignore files
 
 *.class
-
+*.DS_Store
 
 
 # ignore folder

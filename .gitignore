@@ -1,0 +1,10 @@
+# ignore files
+
+*.class
+
+
+
+# ignore folder
+
+bin/
+gen/

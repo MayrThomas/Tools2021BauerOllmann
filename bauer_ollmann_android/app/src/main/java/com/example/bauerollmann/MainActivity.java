@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
                         .setAction("Action", null).show();
             }
         });
+
+        Log.d("STATE", "We're up all night to git lucky. - Daft Punk");
     }
 
     @Override
@@ -56,5 +58,9 @@ public class MainActivity extends AppCompatActivity {
     public void thisIsANewMethod(){
     	String gitTest2 = "Neuer Test für GIT."
         Log.d("STATE", "Never gonna git you up! - Rick Astley");
+
+
+
+
     }
 }

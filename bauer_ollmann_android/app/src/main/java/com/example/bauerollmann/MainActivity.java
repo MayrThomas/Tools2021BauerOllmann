@@ -64,5 +64,7 @@ public class MainActivity extends AppCompatActivity {
         int lalaland = null;
         Log.d("STATE", "Never gonna git you up! - Rick Astley");
 	Log.d("STATE", "The Problem with git jokes? - Everyone has their own version!);
+	Log.d("STATE", "Git is perfect");
+	Log.d("STATE", "Git... Git...");
     }
 }

@@ -59,5 +59,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("STATE", "Never gonna git you up! - Rick Astley");
         int semester = 6;
         int lalaland = null;
+        Log.d("STATE", "Never gonna git you up! - Rick Astley");
     }
 }

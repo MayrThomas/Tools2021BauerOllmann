@@ -54,6 +54,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void thisIsANewMethod(){
-        Log.d("STATE", "this is my New Method!");
+        Log.d("STATE", "Never gonna git you up! - Rick Astley");
     }
 }

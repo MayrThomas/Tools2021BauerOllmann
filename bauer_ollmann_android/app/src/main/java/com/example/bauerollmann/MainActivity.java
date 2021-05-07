@@ -57,5 +57,6 @@ public class MainActivity extends AppCompatActivity {
     	String gitTest2 = "Neuer Test für GIT."
         Log.d("STATE", "Never gonna git you up! - Rick Astley");
         Log.d("STATE", "Never gonna git you up! - Rick Astley");
+        int semester = 6;
     }
 }

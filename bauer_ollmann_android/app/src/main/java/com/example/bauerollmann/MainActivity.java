@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void thisIsANewMethod(){
+    	String gitTest2 = "Neuer Test für GIT."
         Log.d("STATE", "this is my New Method!");
     }
 }

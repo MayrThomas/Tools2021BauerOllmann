@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+        Log.d("STATE", "Let's git this party started!");
     }
 
     public void thisIsANewMethod(){
